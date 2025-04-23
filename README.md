@@ -1,4 +1,4 @@
-# VisionTransformer_from_scratch
+# Vision Transformer from scratch
 The model architecture consists of several layers, including Transformer encoders, linear projections, and attention heads:
 
 ### Total Parameters
